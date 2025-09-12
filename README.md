@@ -41,7 +41,7 @@ In the panel, close every window. This will make it easier to see everything at 
         - In this window, you can select a variety of modes, each one having a unique ability to set your PrimaryPart.
         - Just click near the circle to select or change modes:
         - ![SelectingAMode_Tutorial](https://github.com/user-attachments/assets/8f5b5f63-606a-4abd-9821-61d6b998f957)
-        - Each Mode's features are listed in [features](#features)
+        - Each Mode's features are listed [here](#features)
 
 
 # features
@@ -81,7 +81,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 ### These are the Settings APP offers in each panel:
 - **Select Mode**
      - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
-- Selection Detector
+- **Selection Detector**
      - *Enabled:* Wether SelectionDetector should overall be used or not.
           - *Customize Detection(panel):
              - *character:* Wethere SelectionDetector should detect characters.
@@ -90,7 +90,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
              - *house:* Wethere SelectionDetector should detect house/buildings.
              - *tree:* Wethere SelectionDetector should detect trees.
              - *gun:* Wethere SelectionDetector should detect guns.
-- User Info:
+- **User Info**
      - *None*
 
 # contributing
