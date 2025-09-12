@@ -48,22 +48,31 @@ In the panel, close every window. This will make it easier to see everything at 
 Each Mode has its own features to make a PrimaryPart for your model. The features are listed here: 
 **SET**:
 This Mode gets the closest part to the middle of your whole model and setting this part to the Model's PrimaryPart.
+
 **ADD**:
 Gets the BoundingBox of your model and sets it to the Model's PrimaryPart.
+
 **BIGGEST**:
 Gets the biggest part in your model and sets it to the Model's PrimaryPart.
+
 **SMALLEST**:
 Gets the smalles part in your model and sets it to the Model's PrimaryPart.
+
 **HIGHEST**:
 Gets the highest part on the Y-Axis(world orientation) in your model and sets it as the PrimaryPart of the model.
+
 **LOWEST**:
 Gets the lowest part on the Y-Axis(world orientation) in your model and sets it as the PrimaryPart of the model.
+
 **RANDOM**:
 Gets a random part in your model and sets it to the Model's PrimaryPart.
+
 **HANDLE**:
 Searches specifically for a part whose name contains a “handle” and set it as the PrimaryPart of the model.
+
 **MERGED**:
 Creates an invisible bounding box part as the primary part for only the first selected model, based on all contained parts.
+
 **MULTIMERGED**:
 
 
