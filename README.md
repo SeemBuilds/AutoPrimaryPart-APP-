@@ -46,9 +46,13 @@ In the panel, close every window. This will make it easier to see everything at 
         - Each Mode's features are listed [here](#features)
           
    - **SelectionDetector**
-        - SelectionDetector automatically detects your selection after looking for specific parts and names. Example: You have selected a building that contains parts with “Wall” in their names: Your Selection is likely a building(just a rough example)!
-        - By opening the `Customize Detection` panel in `Selection Detector`, you can customize what should be detected or not. This may be important if your model includes names or parts, that are also detected for another Detection.
-        - > Example: If you have a character selected, but somewhy it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!  
+        - SelectionDetector automatically detects your selection after looking for specific parts and names.
+        - *Example:* You have selected a building that contains parts with “Wall” in their names: Your Selection is likely a building(just a rough example)!
+        - By opening the `Customize Detection` panel in `Selection Detector`, you can customize what should be detected or not. This may be important if your model includes names or parts, that are also relevant for another Detection.
+        -  *Example:* If you have a character selected, but somewhy it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!
+
+     - **User Info**
+          - See: [DATA_USAGE.md](./DATA_USAGE.md)
 
 
 # features
