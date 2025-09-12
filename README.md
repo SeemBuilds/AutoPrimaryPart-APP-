@@ -79,10 +79,19 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 
 
 ### These are the Settings APP offers in each panel:
-- Select Mode
-     - LiveAPP: Automatically sets PrimaryPart for Models inserted in Workspace, based on the Settings and Mode you have selected in the APP UI.
+- **Select Mode**
+     - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
 - Selection Detector
-- User Info
+     - *Enabled:* Wether SelectionDetector should overall be used or not.
+          - *Customize Detection(panel):
+             - *character:* Wethere SelectionDetector should detect characters.
+             - *vehicle:* Wethere SelectionDetector should detect vehicles.
+             - *airplane:* Wethere SelectionDetector should detect airplanes.
+             - *house:* Wethere SelectionDetector should detect house/buildings.
+             - *tree:* Wethere SelectionDetector should detect trees.
+             - *gun:* Wethere SelectionDetector should detect guns.
+- User Info:
+     - *None*
 
 # contributing
 
