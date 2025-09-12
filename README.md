@@ -19,6 +19,8 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 
 # installation
+Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
+
 1. Open Roblox Studio
 2. In the Topbar, select the view panel
 3. Click on toolbox
@@ -42,6 +44,11 @@ In the panel, close every window. This will make it easier to see everything at 
         - Just click near the circle to select or change modes:
         - ![SelectingAMode_Tutorial](https://github.com/user-attachments/assets/8f5b5f63-606a-4abd-9821-61d6b998f957)
         - Each Mode's features are listed [here](#features)
+          
+   - **SelectionDetector**
+        - SelectionDetector automatically detects your selection after looking for specific parts and names. Example: You have selected a building that contains parts with “Wall” in their names: Your Selection is likely a building(just a rough example)!
+        - By opening the `Customize Detection` panel in `Selection Detector`, you can customize what should be detected or not. This may be important if your model includes names or parts, that are also detected for another Detection.
+        - > Example: If you have a character selected, but somewhy it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!  
 
 
 # features
