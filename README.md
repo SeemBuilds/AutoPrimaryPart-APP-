@@ -56,6 +56,8 @@ In the panel, close every window. This will make it easier to see everything at 
         -  *Example:* If you have a character selected, but somewhy it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!
 
      - **User Info**
+          - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
+          - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
           - See: [DATA_USAGE.md](./DATA_USAGE.md)
 
 
@@ -112,6 +114,9 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 APP stores 
 For details about what data APP stores and how it is used, please see:  
 ➡️ [DATA_USAGE.md](./DATA_USAGE.md)
+
+- DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
+- USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
 
 
 # 🤝 contributing
