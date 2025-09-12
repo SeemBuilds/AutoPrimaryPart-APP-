@@ -20,7 +20,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 - [Upcoming Updates](#UpcomingUpdates)
 
 
-# 🔑 installation
+# installation
 Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
 
  or:
@@ -35,7 +35,7 @@ Click on this link and install it: https://create.roblox.com/store/asset/1220239
 [For Usage, view: Usage]
 
 
-# 💻 usage
+# usage
 To use APP, you must have installed it!
 After that, click on the Plugin Tab, select APP and click the UI button.
 
@@ -60,7 +60,7 @@ In the panel, close every window. This will make it easier to see everything at 
           - See: [DATA_USAGE.md](./DATA_USAGE.md)
 
 
-# 🛠️ features
+# features
 Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
 
 - **SET**:
@@ -94,7 +94,7 @@ Creates a BoundingBox part as the PrimaryPart for only the first selected model,
 Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 
 
-### 🎛️ These are the Settings APP offers in each panel:
+### These are the Settings APP offers in each panel:
 - **Select Mode**
      - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
 - **Selection Detector**
@@ -109,7 +109,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 - **User Info**
      - *None*
 
-# 🗂️ Data_Usage
+# Data_Usage
 APP stores 
 For details about what data APP stores and how it is used, please see:  
 ➡️ [DATA_USAGE.md](./DATA_USAGE.md)
@@ -118,7 +118,7 @@ For details about what data APP stores and how it is used, please see:
 - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
 
 
-# 🤝 contributing
+# contributing
 Interested in contributing? Great! Please read the guidelines here:  
 ➡️ [CONTRIBUTION.md](./CONTRIBUTION.md)
 
