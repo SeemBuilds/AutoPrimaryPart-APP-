@@ -41,11 +41,12 @@ In the panel, close every window. This will make it easier to see everything at 
         - In this window, you can select a variety of modes, each one having a unique ability to set your PrimaryPart.
         - Just click near the circle to select or change modes:
         - ![SelectingAMode_Tutorial](https://github.com/user-attachments/assets/8f5b5f63-606a-4abd-9821-61d6b998f957)
-        - Each Mode features are listed in [features](#features)
+        - Each Mode's features are listed in [features](#features)
 
 
 # features
-Each Mode has its own features to make a PrimaryPart for your model. The features are listed here: 
+Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
+
 **SET**:
 This Mode gets the closest part to the middle of your whole model and setting this part to the Model's PrimaryPart.
 
@@ -71,11 +72,10 @@ Gets a random part in your model and sets it to the Model's PrimaryPart.
 Searches specifically for a part whose name contains a “handle” and set it as the PrimaryPart of the model.
 
 **MERGED**:
-Creates an invisible bounding box part as the primary part for only the first selected model, based on all contained parts.
+Creates an invisible BoundingBox part as the PrimaryPart for only the first selected model, based on all contained parts.
 
 **MULTIMERGED**:
-
-
+Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 
 # contributing
 
