@@ -1,3 +1,5 @@
+***This readme is in progress***
+
 # AutoPrimaryPart(APP)
 The official AutoPrimaryPart Documentation!
 
@@ -38,12 +40,15 @@ In the panel, close every window. This will make it easier to see everything at 
      
         - In this window, you can select a variety of modes, each one having a unique ability to set your PrimaryPart.
         - Just click on the circle to select or change modes:
-        - 
-        - To learn what each mode does, view features in this documentation.
+        - [video]
+        - Mode abilities are listed in [features](#features)
 
 
 # features
-
+Each Mode has its own features to make a PrimaryPart for your model. The features are listed here: 
+**SET**
+-->>Continue here
+This Mode gets the closest part to the middle of your whole model and setting this part to the Model's PrimaryPart.
 
 # contributing
 
