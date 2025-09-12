@@ -12,6 +12,9 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 - [Installation](#installation)
 - [Features](#features)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+- [Upcoming updates](#UpcomingUpdates)
+
+
+
+# UpcomingUpdates
