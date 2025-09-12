@@ -8,7 +8,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 *This Documentation includes the following topics:*
 
-## Inhaltsangabe
+## Content
 - [Installation](#installation)
 - [Features](#features)
 - [Usage](#usage)
@@ -30,8 +30,16 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 # usage
 To use APP, you must have installed it!
-After that, click on the Plugin Tab and click on APP.
+After that, click on the Plugin Tab, select APP and click the UI button.
 
+In the panel, close every window. This will make it easier to see everything at a glance.
+
+   - **Select Mode Window**
+     
+        - In this window, you can select a variety of modes, each one having a unique ability to set your PrimaryPart.
+        - Just click on the circle to select or change modes:
+        - 
+        - To learn what each mode does, view features in this documentation.
 
 
 # features
