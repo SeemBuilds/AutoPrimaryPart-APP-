@@ -1,13 +1,13 @@
 # DATA_USAGE.md
 - ***DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.***
 - ***USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.***
+- ***This file will most likely be changed frequently!***
   
 ## Data Usage & Privacy (AutoPrimaryPart / APP)
 
 **Last updated:** 2025-09-12  
 **Version:** v0.1.0-beta
 
-***This file will most likely be changed frequently!***
 
 ### Summary
 APP collects only minimal technical identifiers and statistics necessary for its functionality. All data is used exclusively for feature management, moderation, and error diagnosis. Users can control or disable data collection via plugin settings, and sensitive personal information is never stored.
