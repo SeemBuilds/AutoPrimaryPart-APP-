@@ -21,7 +21,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 
 ## Installation
-➡️ Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
+[➡️ Install AutoPrimaryPart](https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart)
 
  or:
 1. Open Roblox Studio
@@ -123,5 +123,8 @@ Interested in contributing? Great! Please read the guidelines here:
 
 
 ## UpcomingUpdates
-
-
+- Settings for LiveAPP
+- Advanced SelectionDetector
+- Debugging Panel
+- User info Output for Data_Usage(shows certain Data being used)
+- APP Output(e.g why certain primary parts were chosen and much more)
