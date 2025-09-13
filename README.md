@@ -37,6 +37,9 @@ APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set y
 ## Usage
 Click on the Plugin Tab, select APP and click the UI button.
 
+Now, please select any model where you want APP to choose a PrimaryPart.
+APP is can do multi-tasking, so you can also select several models for APP.
+
 In the panel, close every window. This will make it easier to see everything at a glance.
 ![ClosingEveryWindow](https://github.com/user-attachments/assets/9140ac1b-fd66-49e9-9b1e-41df61918b7d)
 
@@ -55,6 +58,9 @@ In the panel, close every window. This will make it easier to see everything at 
         -  *Example:* If you have a character selected, but for some reason it contains parts with ‘Wall’ in their names, SelectionDetector might incorrectly identify it as a house.
         -  ***To enable SelectionDetector, simply click on the checkbox:***
         -  ![EnablingSelectionDetector](https://github.com/user-attachments/assets/f1401d56-101f-4a50-9480-048c13dfd2e9)
+
+After choosing your mode and enabling or disabling a mode, in the plugin Tab, click on APP and click the `run` button. APP will now choose the primarypart based on the mode you selected.
+*If you have SelectionDetector enabled, no mode will be used!*
 
    - **User Info**
      - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
