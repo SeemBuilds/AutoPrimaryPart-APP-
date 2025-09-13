@@ -30,8 +30,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 5. In the Searchbar, search for *AutoPrimaryPart*
 6. Select install!
 7. Done✅
-   
-[For Usage, view: Usage]
+
 
 
 ## Usage
