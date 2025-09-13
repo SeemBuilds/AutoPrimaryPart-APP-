@@ -97,7 +97,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 ## Settings
 These are the Settings APP offers in each panel:
 - **Select Mode**
-     - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI. ***LiveAPP is in deep experimental!***
+     - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI. ***LiveAPP is in deep development!***
 - **Selection Detector**(also works with *LiveAPP*)
      - *Enabled:* Whether SelectionDetector should overall be used or not.
           - *Customize Detection(panel):*
@@ -122,7 +122,7 @@ You will see a JSON code.
 4. in the APP plugin in Roblox studio, under Versioning, paste the copied value into the TextBox.
 5. done!
 
-***Versioning is in deep experimental!***
+***Versioning is in deep development!***
 
 ## Data Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
