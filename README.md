@@ -130,3 +130,4 @@ Interested in contributing? Great! Please read the guidelines here:
 - Debugging Panel
 - User info Output for Data_Usage(shows certain Data being used)
 - APP Output(e.g why certain primary parts were chosen and much more)
+- Performance optimization
