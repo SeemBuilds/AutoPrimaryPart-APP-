@@ -111,7 +111,16 @@ These are the Settings APP offers in each panel:
      - *None*
 
  ## Versioning
- APP 
+Sometimes APP updates can result in certain modes and options being changed. Versioning is used to retain the desired options and modes after version requests. In APP there is a Versioning panel, with a Versioning TextBox. There you can enter your desired version. This version will now always be used for you, unless you change it.  Please note that if you enter an incorrect or empty version, the version will be loaded to the latest version.
+
+How to revert to any version:
+1. in this Github repo, navigate to releases.
+There you will find every version of APP.
+2. click on your desired version.
+You will see a JSON code.
+3. copy the value of “version”.
+4. in the APP plugin in Roblox studio, under Versioning, paste the copied value into the TextBox.
+5. done!
 
 ## Data Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
