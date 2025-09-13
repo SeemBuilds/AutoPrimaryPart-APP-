@@ -20,7 +20,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 - [Upcoming Updates](#UpcomingUpdates)
 
 
-# installation
+## installation
 Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
 
  or:
@@ -35,7 +35,7 @@ Click on this link and install it: https://create.roblox.com/store/asset/1220239
 [For Usage, view: Usage]
 
 
-# usage
+## usage
 To use APP, you must have installed it!
 After that, click on the Plugin Tab, select APP and click the UI button.
 
@@ -58,7 +58,7 @@ In the panel, close every window. This will make it easier to see everything at 
      - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
      - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
      - See: [DATA_USAGE.md](./DATA_USAGE.md)
-# features
+## features
 Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
 
 - **SET**:
@@ -107,7 +107,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 - **User Info**
      - *None*
 
-# Data_Usage
+## Data_Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
 
 For details about what data APP stores and how it is used, please see:  
@@ -117,7 +117,7 @@ For details about what data APP stores and how it is used, please see:
 - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
 
 
-# contributing
+## contributing
 Interested in contributing? Great! Please read the guidelines here:  
 ➡️ [CONTRIBUTION.md](./CONTRIBUTION.md)
 
