@@ -41,6 +41,8 @@ To use APP, you must have installed it!
 After that, click on the Plugin Tab, select APP and click the UI button.
 
 In the panel, close every window. This will make it easier to see everything at a glance.
+![ClosingEveryWindow](https://github.com/user-attachments/assets/9140ac1b-fd66-49e9-9b1e-41df61918b7d)
+
 
    - **Select Mode Window**
      
@@ -54,6 +56,8 @@ In the panel, close every window. This will make it easier to see everything at 
         - *Example:* You have selected a building that contains parts with “Wall” in their names: Your Selection is likely a building(just a rough example)!
         - By opening the `Customize Detection` panel in `Selection Detector`, you can customize what should be detected or not. This may be important if your model includes names or parts, that are also relevant for another Detection.
         -  *Example:* If you have a character selected, but for some reason it contains parts with ‘Wall’ in their names, SelectionDetector might incorrectly identify it as a house.
+        -  ***To enable SelectionDetector, simply click on the checkbox:***
+        -  ![EnablingSelectionDetector](https://github.com/user-attachments/assets/f1401d56-101f-4a50-9480-048c13dfd2e9)
 
    - **User Info**
      - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
