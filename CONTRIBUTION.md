@@ -1,6 +1,7 @@
 ***This readme is not done in any way!***
-Contribute:
+
+### Contribute:
 GitHub Issues & PRs.
 
-Reviews:
+### Reviews:
 roblox creator store: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
