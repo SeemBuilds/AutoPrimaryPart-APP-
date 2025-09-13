@@ -59,7 +59,7 @@ In the panel, close every window. This will make it easier to see everything at 
         -  ***To enable SelectionDetector, simply click on the checkbox:***
         -  ![EnablingSelectionDetector](https://github.com/user-attachments/assets/f1401d56-101f-4a50-9480-048c13dfd2e9)
 
-After choosing your mode and enabling or disabling a mode, in the plugin Tab, click on APP and click the `run` button. APP will now choose the primarypart based on the mode you selected.
+After choosing your mode and enabling or disabling a mode, in the plugin Tab, click on APP and click the APP button. APP will now choose the primarypart based on the mode you selected.
 *If you have SelectionDetector enabled, no mode will be used!*
 
    - **User Info**
