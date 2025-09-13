@@ -14,9 +14,9 @@ APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set y
 - [Features](#features)
 - [Settings](#Settings)
 - [Usage](#usage)
-- [Data Usage](#Data_Usage)
+- [Data Usage](#Data-Usage)
 - [Contributing](#contributing)
-- [Upcoming Updates](#Upcoming_Updates)
+- [Upcoming Updates](#Upcoming-Updates)
 
 
 ## Installation
