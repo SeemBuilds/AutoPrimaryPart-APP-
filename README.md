@@ -98,12 +98,12 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 - **Selection Detector**
      - *Enabled:* Wether SelectionDetector should overall be used or not.
           - *Customize Detection(panel):
-             - *character:* Wethere SelectionDetector should detect characters.
-             - *vehicle:* Wethere SelectionDetector should detect vehicles.
-             - *airplane:* Wethere SelectionDetector should detect airplanes.
-             - *house:* Wethere SelectionDetector should detect house/buildings.
-             - *tree:* Wethere SelectionDetector should detect trees.
-             - *gun:* Wethere SelectionDetector should detect guns.
+             - *character:* Whether SelectionDetector should detect characters.
+             - *vehicle:* Whether SelectionDetector should detect vehicles.
+             - *airplane:* Whether SelectionDetector should detect airplanes.
+             - *house:* Whether SelectionDetector should detect house/buildings.
+             - *tree:* Whether SelectionDetector should detect trees.
+             - *gun:* Whether SelectionDetector should detect guns.
 - **User Info**
      - *None*
 
