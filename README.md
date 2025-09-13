@@ -122,7 +122,7 @@ You will see a JSON code.
 4. in the APP plugin in Roblox studio, under Versioning, paste the copied value into the TextBox.
 5. done!
 
-***Versioning is in deep development!***
+***Versioning is still in development!***
 
 ## Data Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
