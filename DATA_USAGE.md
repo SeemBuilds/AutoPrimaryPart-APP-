@@ -5,7 +5,7 @@
   
 ## Data Usage & Privacy (AutoPrimaryPart / APP)
 
-**Last updated:** 2025-09-12  
+**Last updated:** 2025-09-13  
 **Version:** v0.1.0-beta
 
 
