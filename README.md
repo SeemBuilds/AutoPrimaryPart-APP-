@@ -110,7 +110,8 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
      - *None*
 
 # Data_Usage
-APP stores 
+APP stores sepcific data.
+
 For details about what data APP stores and how it is used, please see:  
 ➡️ [DATA_USAGE.md](./DATA_USAGE.md)
 
