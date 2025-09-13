@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0-beta",
+  "date": "2025-09-13",
+  "modules": {
+    "SelectionDetector": "latest",
+    "AutoPrimaryPart_Module_v.0.1.0-beta": "latest",
+    "AutoPrimaryPart_Config": "latest"
+  },
+  "notes": "Initial beta release with all core features."
+}
