@@ -5,7 +5,7 @@ The official AutoPrimaryPart Documentation!
 ![Status](https://img.shields.io/badge/status-Public-orange)
 ![Docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
-APP is a Roblox Studio Plugin that lets you automatically set your Model's PrimaryPart after your liking, offering a variety of modes, but also having the ability to detect your Selection and setting the perfect PrimaryPart!
+APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set your Model's PrimaryPart after your liking, offering a variety of modes, but also having the ability to detect your Selection and setting the perfect PrimaryPart!
 
 *This Documentation includes the following topics:*
 
