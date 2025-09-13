@@ -34,8 +34,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 
 ## Usage
-To use APP, you must have installed it!
-After that, click on the Plugin Tab, select APP and click the UI button.
+Click on the Plugin Tab, select APP and click the UI button.
 
 In the panel, close every window. This will make it easier to see everything at a glance.
 ![ClosingEveryWindow](https://github.com/user-attachments/assets/9140ac1b-fd66-49e9-9b1e-41df61918b7d)
