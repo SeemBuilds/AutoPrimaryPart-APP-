@@ -112,7 +112,7 @@ These are the Settings APP offers in each panel:
 ## Data_Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
 
-For details about what data APP stores and how it is used, please see:  
+For details about what data APP stores and how it is used, please read:  
 ➡️ [DATA_USAGE.md](./DATA_USAGE.md)
 
 - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
