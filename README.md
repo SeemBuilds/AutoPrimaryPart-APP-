@@ -21,7 +21,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 
 
 ## installation
-Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
+➡️ Click on this link and install it: https://create.roblox.com/store/asset/122023934560086/AutoPrimaryPart
 
  or:
 1. Open Roblox Studio
@@ -52,7 +52,7 @@ In the panel, close every window. This will make it easier to see everything at 
         - SelectionDetector automatically detects your selection after looking for specific parts and names.
         - *Example:* You have selected a building that contains parts with “Wall” in their names: Your Selection is likely a building(just a rough example)!
         - By opening the `Customize Detection` panel in `Selection Detector`, you can customize what should be detected or not. This may be important if your model includes names or parts, that are also relevant for another Detection.
-        -  *Example:* If you have a character selected, but somewhy it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!
+        -  *Example:* If you have a character selected, but for some reason it includes parts with "Wall" found in their names, SelectionDetector could specify your Selection as a house and not as character!
 
    - **User Info**
      - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
@@ -62,7 +62,7 @@ In the panel, close every window. This will make it easier to see everything at 
 Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
 
 - **SET**:
-This Mode gets the closest part to the middle of your whole model and sets it a the Model's PrimaryPart.
+This Mode gets the closest part to the middle of your whole model and sets it as the Model's PrimaryPart.
 
 - **ADD**:
 Gets the BoundingBox of your model and sets it as the Model's PrimaryPart.
@@ -96,7 +96,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 - **Select Mode**
      - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
 - **Selection Detector**
-     - *Enabled:* Wether SelectionDetector should overall be used or not.
+     - *Enabled:* Whether SelectionDetector should overall be used or not.
           - *Customize Detection(panel):
              - *character:* Whether SelectionDetector should detect characters.
              - *vehicle:* Whether SelectionDetector should detect vehicles.
