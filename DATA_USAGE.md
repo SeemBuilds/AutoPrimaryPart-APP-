@@ -17,8 +17,8 @@ APP collects only minimal technical identifiers and statistics necessary for its
 ## What APP collects
 
 ### Identifiers
-- **SeemBuilds_User_ID** — an internal identifier assigned to the user for tracking feature access and usage.  
-- **APP_User_ID** — an internal identifier assigned to the APP instance.  
+- **SeemBuilds_User_ID** —  An internal identifier for overall control over SeemBuilds plugin users. Nothing about the user and their roblox place is stored here, only plugin statistics such as total downloads, but also access rights for certain plugins.
+- **APP_User_ID** — an internal identifier assigned to the user for tracking feature access and usage, specifically for APP. 
 - **SeemBuilds_Token_ID** — a token used for server-side validation (never stored in client-readable plaintext).
 
 These identifiers are used only for technical identification and internal logic. They do **not** identify personal details outside the system.
