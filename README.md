@@ -110,7 +110,7 @@ These are the Settings APP offers in each panel:
 - **User Info**
      - *None*
 
-## Data_Usage
+## Data Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
 
 For details about what data APP stores and how it is used, please read:  
