@@ -1,10 +1,9 @@
-***This Documentation is in progress***
-
 # AutoPrimaryPart(APP)
 The official AutoPrimaryPart Documentation!
 
 ![Version](https://img.shields.io/badge/version-0.1.0--beta-blue)
 ![Status](https://img.shields.io/badge/status-Public-orange)
+![Docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
 ## Documentation: 
 APP is a Roblox Studio Plugin that lets you automatically set your Model's PrimaryPart after your liking, offering a variety of modes, but also having the ability to detect your Selection and setting the perfect PrimaryPart!
@@ -62,7 +61,7 @@ In the panel, close every window. This will make it easier to see everything at 
    - **User Info**
      - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
      - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
-     - See: [DATA_USAGE.md](./DATA_USAGE.md)
+     - Read: [DATA_USAGE](./DATA_USAGE.md)
 ## Features
 Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
 
@@ -103,7 +102,7 @@ These are the Settings APP offers in each panel:
      - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
 - **Selection Detector**
      - *Enabled:* Whether SelectionDetector should overall be used or not.
-          - *Customize Detection(panel):
+          - *Customize Detection(panel):*
              - *character:* Whether SelectionDetector should detect characters.
              - *vehicle:* Whether SelectionDetector should detect vehicles.
              - *airplane:* Whether SelectionDetector should detect airplanes.
@@ -117,7 +116,7 @@ These are the Settings APP offers in each panel:
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
 
 For details about what data APP stores and how it is used, please read:  
-➡️ [DATA_USAGE.md](./DATA_USAGE.md)
+➡️ [DATA_USAGE](./DATA_USAGE.md)
 
 - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
 - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
@@ -125,7 +124,7 @@ For details about what data APP stores and how it is used, please read:
 
 ## Contributing
 Interested in contributing? Great! Please read the guidelines here:  
-➡️ [CONTRIBUTION.md](./CONTRIBUTION.md)
+➡️ [CONTRIBUTION](./CONTRIBUTION.md)
 
 
 ## Upcoming Updates
