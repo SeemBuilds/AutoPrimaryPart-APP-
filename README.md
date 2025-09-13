@@ -38,7 +38,7 @@ APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set y
 Click on the Plugin Tab, select APP and click the UI button.
 
 Now, please select any model where you want APP to choose a PrimaryPart.
-APP is can do multi-tasking, so you can also select several models for APP.
+APP can do multitasking, so you can also select several models.
 
 In the panel, close every window. This will make it easier to see everything at a glance.
 ![ClosingEveryWindow](https://github.com/user-attachments/assets/9140ac1b-fd66-49e9-9b1e-41df61918b7d)
