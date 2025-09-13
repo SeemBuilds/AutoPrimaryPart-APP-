@@ -14,6 +14,7 @@ APP is a Roblox Studio Plugin that lets you automatically set your Model's Prima
 ## 📚 Content
 - [Installation](#installation)
 - [Features](#features)
+- [Settings](#Settings)
 - [Usage](#usage)
 - [Data Usage](#Data_Usage)
 - [Contributing](#contributing)
@@ -92,7 +93,7 @@ Creates a BoundingBox part as the PrimaryPart for only the first selected model,
 Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 
 
-## Settings:
+## Settings
 These are the Settings APP offers in each panel:
 - **Select Mode**
      - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
