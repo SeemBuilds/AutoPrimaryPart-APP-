@@ -11,9 +11,10 @@ APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set y
 
 ## 📚 Content
 - [Installation](#installation)
+- [Usage](#usage)
 - [Features](#features)
 - [Settings](#Settings)
-- [Usage](#usage)
+- [Versioning](#Versioning)
 - [Data Usage](#Data-Usage)
 - [Contributing](#contributing)
 - [Upcoming Updates](#Upcoming-Updates)
@@ -108,6 +109,9 @@ These are the Settings APP offers in each panel:
              - *gun:* Whether SelectionDetector should detect guns.
 - **User Info**
      - *None*
+
+ ## Versioning
+ APP 
 
 ## Data Usage
 APP collects only minimal technical identifiers and statistics necessary for its functionality.
