@@ -1,4 +1,4 @@
-***This readme is not done in any way!***
+***in progress***
 
 ### Contribute:
 GitHub Issues & PRs.
