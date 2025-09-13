@@ -1,5 +1,7 @@
 ***in progress***
 
+Currently available methods:
+
 ### Contribute:
 GitHub Issues & PRs.
 
