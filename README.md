@@ -108,7 +108,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
      - *None*
 
 # Data_Usage
-APP stores sepcific data.
+APP collects only minimal technical identifiers and statistics necessary for its functionality.
 
 For details about what data APP stores and how it is used, please see:  
 ➡️ [DATA_USAGE.md](./DATA_USAGE.md)
