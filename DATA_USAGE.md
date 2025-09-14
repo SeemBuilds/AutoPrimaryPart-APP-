@@ -84,6 +84,6 @@ APP provides options for controlling data collection:
 
 ---
 
-## Legal / GDPR Disclaimer
+## Legal 
 
 This document is for informational purposes and does not constitute legal advice. Users in regions with data protection laws should consult appropriate legal guidance.
