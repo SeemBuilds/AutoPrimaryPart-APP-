@@ -1,3 +1,5 @@
+Relevant for: houses/buildings, vehicles, airplanes
+
 How to set your primary part on vehicles(model):
 
 https://github.com/user-attachments/assets/b1636a35-f2ab-4ac2-a6a3-ebb9f6b8e992
