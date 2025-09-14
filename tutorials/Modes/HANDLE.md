@@ -8,7 +8,8 @@ https://github.com/user-attachments/assets/79985940-cdd2-4ed1-be10-b7d58d7b1f92
 3. Click on the `Run` button in APP.
 
 # How it works
-- Searches specifically for a part whose name contains a "handle" and sets it as the PrimaryPart of the model.
+- Searches for "handle" in all BasePart names of your model/tool that are converted to lower case internally, i.e. in APP scripts.
+- So even if your BasePart name contains "handle" with a bunch of other letters or "handle" is written with upper and lower case letters., the `HANDLE` mode sets it as the Primary Part. Example: jnnsd`handle`nnkf or nsnfH`hAnDle`nnskjd
 
 # Common mistakes
 1. *None*
