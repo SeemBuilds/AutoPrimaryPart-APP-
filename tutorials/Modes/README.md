@@ -26,7 +26,7 @@ In the `MERGED` and `MULTIMERGED` tutorial, the setup is made out of 2 ExampleMo
 
 ### HANDLE Setup
 In the `HANDLE` tutorial, the setup is made out of an acs gun called "*AR-15*".
-The model includes BaseParts and a "*Handle*" part, which is used as the primary part for the Mode `HANDLE`, as shown in the tutorial.
+The model includes BaseParts and a "*Handle*" part, which is used as the primary part for the mode `HANDLE`, as shown in the tutorial.
 
 <img width="747" height="305" alt="HANDLE_Setup" src="https://github.com/user-attachments/assets/0f6aed13-32b7-40f8-b56b-03e202248be0" />
 
