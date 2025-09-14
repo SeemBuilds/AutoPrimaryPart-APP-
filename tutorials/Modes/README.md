@@ -23,3 +23,13 @@ The model has highlighting for better visualization.
 In the `MERGED` and `MULTIMERGED` tutorial, the setup is made out of 2 ExampleModels:
 
 <img width="283" height="253" alt="MERGED_Setup" src="https://github.com/user-attachments/assets/e1120433-830a-447d-a919-7540ce97f631" />
+
+### HANDLE Setup
+In the `HANDLE` tutorial, the setup is made out of an acs gun called "*AR-15*".
+The model includes BaseParts and a "*Handle*" part, which is used as the primary part for the Mode `HANDLE`, as shown in the tutorial.
+
+<img width="747" height="305" alt="HANDLE_Setup" src="https://github.com/user-attachments/assets/0f6aed13-32b7-40f8-b56b-03e202248be0" />
+
+**In this image, you can see the hierarchy of the model:**
+
+<img width="221" height="439" alt="HANDLE_Setup_Hierarchy" src="https://github.com/user-attachments/assets/31bf0cfc-ddc8-4c09-9b29-ab493f5f63a1" />
