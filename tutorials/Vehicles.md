@@ -1,4 +1,4 @@
-Relevant for: houses/buildings, vehicles, airplanes
+*Relevant for: houses/buildings, vehicles, airplanes*
 
 How to set your primary part on vehicles(model):
 
