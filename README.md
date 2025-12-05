@@ -1,7 +1,7 @@
 # AutoPrimaryPart(APP)
 The official AutoPrimaryPart Documentation!
 
-![Version](https://img.shields.io/badge/version-0.1.0--beta-blue)
+![Version](https://img.shields.io/badge/version-0.2.0--beta-blue)
 ![Status](https://img.shields.io/badge/status-Public-orange)
 ![Docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
