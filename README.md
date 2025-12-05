@@ -103,7 +103,7 @@ Same purpose as MERGED, but sets the PrimaryPart for all selected models.
 ## Settings
 These are the Settings APP offers in each panel:
 - **Select Mode**
-     - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI. ***LiveAPP is in deep development!***
+     - *LiveAPP:* Automatically sets PrimaryPart for Models inserted in Workspace based on the Settings and Mode you have selected in the APP UI.
 - **Selection Detector**(also works with *LiveAPP*)
      - *Enabled:* Whether SelectionDetector should overall be used or not.
           - *Customize Detection(panel):*
@@ -152,4 +152,3 @@ Interested in contributing? Great! Please read the guidelines here:
 - User info Output for Data_Usage(shows certain Data being used)
 - APP Output(e.g why certain primary parts were chosen and much more)
 - Performance optimization
-- Many more Settings
