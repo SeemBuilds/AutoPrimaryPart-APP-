@@ -1,7 +1,7 @@
 # AutoPrimaryPart(APP)
 The official AutoPrimaryPart Documentation!
 
-![Version](https://img.shields.io/badge/version-0.2.0--beta-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Status](https://img.shields.io/badge/status-Public-orange)
 ![Docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
@@ -15,7 +15,6 @@ APP(AutoPrimaryPart) is a Roblox Studio Plugin that lets you automatically set y
 - [Features](#features)
 - [Settings](#Settings)
 - [Versioning](#Versioning)
-- [Data Usage](#Data-Usage)
 - [Contributing](#contributing)
 - [Upcoming Updates](#Upcoming-Updates)
 
@@ -62,10 +61,6 @@ In the panel, close every window. This will make it easier to see everything at 
 After choosing your mode and enabling or disabling a mode, in the plugin Tab, click on APP and click the APP button. APP will now choose the primarypart based on the mode you selected.
 *If you have SelectionDetector enabled, no mode will be used!*
 
-   - **User Info**
-     - DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
-     - USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
-     - Read: [DATA_USAGE](./DATA_USAGE.md)
 ## Features
 Each Mode has its own ability to make a PrimaryPart for your model. The features are listed here: 
 
@@ -113,8 +108,6 @@ These are the Settings APP offers in each panel:
              - *house:* Whether SelectionDetector should detect house/buildings.
              - *tree:* Whether SelectionDetector should detect trees.
              - *gun:* Whether SelectionDetector should detect guns.
-- **User Info**
-     - *None*
 
  ## Versioning
 Sometimes APP updates can result in certain modes and options being changed. Versioning is used to retain the desired options and modes after version requests. In APP there is a Versioning panel, with a Versioning TextBox. There you can enter your desired version. This version will now always be used for you, unless you change it.  Please note that if you enter an incorrect or empty version, the version will be loaded to the latest version.
@@ -128,16 +121,7 @@ You will see a JSON code.
 4. in the APP plugin in Roblox studio, under Versioning, paste the copied value into the TextBox.
 5. done!
 
-***Versioning is still in development!***
-
-## Data Usage
-APP collects only minimal technical identifiers and statistics necessary for its functionality.
-
-For details about what data APP stores and how it is used, please read:  
-➡️ [DATA_USAGE](./DATA_USAGE.md)
-
-- DATA COLLECTION IS CURRENTLY DISABLED, AS THIS FEATURE IS NOT FULLY DEVELOPED.
-- USERS WILL BE NOTIFIED BEFORE ANY DATA IS COLLECTED.
+***Versioning is currently not fully integrated as there is only 1 version***
 
 
 ## Contributing
@@ -146,9 +130,7 @@ Interested in contributing? Great! Please read the guidelines here:
 
 
 ## Upcoming Updates
-- Settings for LiveAPP
 - Advanced SelectionDetector
 - Debugging Panel
-- User info Output for Data_Usage(shows certain Data being used)
 - APP Output(e.g why certain primary parts were chosen and much more)
 - Performance optimization
